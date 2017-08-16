@@ -1,13 +1,1 @@
-starts elasticsearch
-123123123
-Option                Description                                              
-------                -----------                                              
--E <KeyValuePair>     Configure a setting                                      
--V, --version         Prints elasticsearch version information and exits       
--d, --daemonize       Starts Elasticsearch in the background                   
--h, --help            show help                                                
--p, --pidfile <Path>  Creates a pid file in the specified path on start        
--q, --quiet           Turns off standard ouput/error streams logging in console
--s, --silent          show minimal output                                      
--v, --verbose         show verbose output                                      
-ERROR: Positional arguments not allowed, found [-]
+版本1
